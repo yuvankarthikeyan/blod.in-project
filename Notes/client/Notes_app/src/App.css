@@ -1,0 +1,10 @@
+.content{
+    display: none;
+}
+.show-content {
+    display: block;
+}
+.back{
+    background-image: url("./assets/grad.png");
+    
+}
